@@ -34,13 +34,13 @@ A Python-based Caesar cipher encryption/decryption tool with Streamlit interface
 3. **To Encrypt Text:**
    - Enter your plaintext in the input area
    - Select your desired shift value (1-25)
-   - Click the "ðŸ”’ Encrypt" button
+   - Click the ’ Encrypt" button
    - Copy the encrypted result
 
 4. **To Decrypt Text:**
    - Enter your encrypted text in the input area
    - Set the shift value to the same value used for encryption
-   - Click the "ðŸ”“ Decrypt" button
+   - Click the “ Decrypt" button
    - View the decrypted plaintext
 
 ## Educational Features
